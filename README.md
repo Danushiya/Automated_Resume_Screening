@@ -1,16 +1,38 @@
-# Automated_Resume_Screening
+# AUTOMATED RESUME SCREENING
 Efficiently screen and categorize resumes using SVM -based Resume Screening Tool with Streamlit UI
 
 ## Instructions
 
-1. Open the Notebook.
+For Model Training :
+1. Open the Jupyter Notebook.
 2. Execute each Cell to Run the Code.
 3. View the Results and Outputs for Insights.
+
+For Implementing the Model :
+1. Open the Visual Studio Code editor.
+2. Run the main.py file.
+3. Run it using the Command Prompt (using the command - streamlit run FILE PATH)
 
 ## Dependencies
 
 - Python 3.7 or Higher
-- pandas, mlxtend, and other required libraries (install using `pip install -r requirements.txt`)
+- pandas
+- mlxtend
+- altair
+- nltk
+- numpy
+- streamlit
+- pdfkit
+- PyPDF2
+- docx
+- pytesseract
+- Pillow (Python Imaging Library)
+- docx2txt
+- textract
+- matplotlib
+- gensim
+
+These dependencies can be installed using `pip install -r requirements.txt` as specified in the code comment.
 
 ## Dataset Source
 
