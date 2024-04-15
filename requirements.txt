@@ -1,0 +1,16 @@
+Python 3.7 or Higher
+pandas
+mlxtend
+altair
+nltk
+numpy
+streamlit
+pdfkit
+PyPDF2
+docx
+pytesseract
+Pillow (Python Imaging Library)
+docx2txt
+textract
+matplotlib
+gensim
